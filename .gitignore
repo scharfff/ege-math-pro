@@ -205,6 +205,7 @@ DocProject/Help/*.hhk
 DocProject/Help/*.hhp
 DocProject/Help/Html2
 DocProject/Help/html
+Claude outputs/
 
 # Click-Once directory
 publish/
@@ -427,3 +428,5 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+
